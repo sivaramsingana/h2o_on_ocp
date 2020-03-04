@@ -83,5 +83,4 @@ $
 
 ```
 
-The results tells us that we are 99.86% Satisfied with result &
-0.13% Dissatisfied.
+The results tells us that we are 99.86% Satisfied with result & 0.13% Dissatisfied with the result
