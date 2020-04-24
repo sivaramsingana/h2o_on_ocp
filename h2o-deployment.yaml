@@ -15,7 +15,7 @@ spec:
         io.kompose.service: h2o
     spec:
       containers:
-      - image: h2o:ppc64le
+      - image: docker.io/harsha544/h2o:ppc64le
         name: h2o
         ports:
         - containerPort: 3000
