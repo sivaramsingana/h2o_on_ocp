@@ -1,4 +1,4 @@
-# H2O Container on OpenShift Container Platform
+# H2O Container on OpenShift Container Platform v3.11 and v4.3
 
 This repository contains yaml files that shall be consumed "as-is" on OCP/K8.
 The docker image(s) involved are custom built for this particular usecase.
