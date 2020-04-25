@@ -86,6 +86,8 @@ $
 The results tells us that we are 99.86% Satisfied with result & 0.13% Dissatisfied with the result
 
 ### Maintainers/Contacts 
+For any clarifications/queries please reach out to one of the following contacts listed below,
+if found any deviations feel free to raise an issue 
 
 Krishna Harsha Voora
 
