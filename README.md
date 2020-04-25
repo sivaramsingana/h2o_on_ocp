@@ -1,4 +1,4 @@
-# Running H2O Container on OpenShift Container Platform
+# H2O Container on OpenShift Container Platform
 
 This repository contains yaml files that shall be consumed "as-is" on OCP/K8.
 The docker image(s) involved are custom built for this particular usecase.
@@ -84,3 +84,11 @@ $
 ```
 
 The results tells us that we are 99.86% Satisfied with result & 0.13% Dissatisfied with the result
+
+### Maintainers/Contacts 
+
+Krishna Harsha Voora
+
+Mithun H R
+
+Santosh Kumar Hiremath
