@@ -1,15 +1,15 @@
-# H2O Container on OpenShift Container Platform v3.11 and v4.3
+# Deploying H2O Container on OpenShift Container Platform
 
 This repository contains yaml files that shall be consumed "as-is" on OCP/K8.
 The docker image(s) involved are custom built for this particular usecase.
 
 ### Steps to build Docker Images for this usecase
 
-We will now build the docker image for this usecase.
+We will build the docker image for this usecase.
 
 ```
-git clone https://github.com/krishvoor/h2o_recipe_ocp
-cd $PWD/h2o_recipe_ocp/docker/
+git clone https://github.com/ocp-power-demos/h2o_on_ocp
+cd $PWD/h2o_on_ocp/docker/
 docker build -t h2o:ppc64le .
 cd ../
 ```
