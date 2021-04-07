@@ -21,7 +21,7 @@ spec:
       containers:
       - image: h2o:ppc64le
         name: h2o
-		imagePullPolicy: IfNotPresent
+        imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 3000
         resources: {}
